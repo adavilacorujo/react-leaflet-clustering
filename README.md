@@ -2,6 +2,8 @@
 
 This project uses react-leaflet to create a map with clustering capabilities.
 
+![alt text](./public/example.png)
+
 ### Data
 
 The data displayed is described as:
